@@ -1,0 +1,73 @@
+/* App.css */
+
+/* Estilos para o container principal */
+.App {
+  text-align: center;
+  background-color: #ffffff; /* Cor de fundo branca */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centralizar conteúdo horizontalmente */
+  justify-content: center; /* Centralizar conteúdo verticalmente */
+  padding: 20px; /* Espaçamento interno do container */
+}
+
+/* Estilos para a logo */
+.App-logo {
+  margin-bottom: 20px; /* Margem inferior para separar outros elementos */
+}
+
+/* Estilos para a imagem da logo */
+.App-logo img {
+  height: 250px; /* Altura aumentada da logo */
+  width: auto; /* Largura automática para manter a proporção */
+}
+
+/* App.css */
+
+/* App.css */
+
+/* Estilos para as frases em negrito */
+.Bold-text {
+  font-weight: bold;
+  color: #000000; /* Cor do texto preto */
+}
+
+
+.Register-button {
+  background-color: #007bff; 
+  color: white; 
+  border: none; 
+  padding: 10px 20px; 
+  font-size: 16px; 
+  cursor: pointer;
+  border-radius: 5px; 
+  margin-top: 20px; 
+}
+
+.Register-button:hover {
+  background-color: #0056b3; /* Cor de fundo ao passar o mouse */
+}
+
+
+.App-header {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+/* Estilos para a imagem */
+.App-logo {
+  height: 200px; /* Altura da imagem em pixels */
+  width: auto; /* Largura automática para manter a proporção */
+  margin-bottom: 20px; /* Margem inferior para separar outros elementos */
+}
